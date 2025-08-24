@@ -1,4 +1,3 @@
-#!/bin/bash
 principal=$1
 rate=$2
 time=$3
